@@ -1,4 +1,1 @@
-from WHATSAPP-import app
-
-if __name__ =='__main__':
-    app.run(debug = True)
+# from WHATSAPP-cha import app
